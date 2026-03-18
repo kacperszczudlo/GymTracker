@@ -24,47 +24,47 @@ Poniżej znajdują się przykładowe widoki aplikacji.
 
 ### 1) Start / Logowanie
 Ekran startowy z przyciskami logowania i rejestracji.  
-<img src="docs/screenshots/1.png" width="260" />
+<img src="docs//1.png" width="260" />
 
 ### 2) Rejestracja (konto)
 Formularz rejestracji użytkownika.  
-<img src="docs/screenshots/2.png" width="260" />
+<img src="docs/2.png" width="260" />
 
 ### 3) Rejestracja (profil)
 Uzupełnianie danych profilu (płeć, wzrost, obwody, masa ciała).  
-<img src="docs/screenshots/3.png" width="260" />
+<img src="docs/3.png" width="260" />
 
 ### 4) Wybór dni treningowych
 Wybór dni w tygodniu, w które użytkownik planuje trening.  
-<img src="docs/screenshots/4.png" width="260" />
+<img src="docs/4.png" width="260" />
 
 ### 5) Trening – dodawanie serii i ćwiczeń
 Widok treningu (np. Poniedziałek): dodawanie serii i przejście dalej.  
-<img src="docs/screenshots/5.png" width="260" />
+<img src="docs/5.png" width="260" />
 
 ### 6) Wybór ćwiczenia
 Lista ćwiczeń do dodania do treningu.  
-<img src="docs/screenshots/6.png" width="260" />
+<img src="docs/6.png" width="260" />
 
 ### 7) Podgląd treningu / kalendarz
 Wybór dnia + podsumowanie treningu, edycja i zapis.  
-<img src="docs/screenshots/7.png" width="260" />
+<img src="docs/7.png" width="260" />
 
 ### 8) Menu główne
 Dostęp do modułów: cele treningowe, aktualizacja planu, aktualizacja obwodów.  
-<img src="docs/screenshots/8.png" width="260" />
+<img src="docs/8.png" width="260" />
 
 ### 9) Cele treningowe
 Ustawienie celu wagi oraz docelowej liczby dni treningowych w tygodniu.  
-<img src="docs/screenshots/9.png" width="260" />
+<img src="docs/9.png" width="260" />
 
 ### 10) Profil użytkownika
 Szybki podgląd wyników + wejście w progres/osiągnięcia/ustawienia konta.  
-<img src="docs/screenshots/10.png" width="260" />
+<img src="docs/10.png" width="260" />
 
 ### 11) Pełen progres
 Szczegółowe statystyki i wykresy zmian (waga, obwody, rekordy).  
-<img src="docs/screenshots/11.png" width="260" />
+<img src="docs/11.png" width="260" />
 
 ## Wymagania
 - Android Studio (zalecane najnowsze wydanie)
